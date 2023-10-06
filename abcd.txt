@@ -1,0 +1,5 @@
+This command is used to check the current state of the local branch
+                     If any files are updated or changed, it will show the file. So if we want to commit the changes or else stash the changes
+                     If there were no changes in the files, return the messages like nothing to commit, and the working directory is clean.
+
+
